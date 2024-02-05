@@ -1,0 +1,8 @@
+title: Dan Morouney's Project Portfolio
+description: Bookmark this to keep an eye on my project updates!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
