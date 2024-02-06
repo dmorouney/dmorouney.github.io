@@ -36,7 +36,7 @@ I am Dan (Robert) Morouney, a passionate computer scientist based in Kitchener, 
 - Applied dynamic programming to graph-related challenges.
 - Implemented Dijkstra’s Algorithm and solved the vertex cover problem.
 
-#### BONUS Assignment – Huffman Encoding Project
+#### Huffman Encoding Project
 
 - Led a project on Huffman encoding, achieving a 20% reduction in file size.
 
