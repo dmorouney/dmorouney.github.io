@@ -132,28 +132,6 @@ I am Dan (Robert) Morouney, a passionate computer scientist based in Kitchener, 
 
 - Developed proofs and demonstrated understanding of foundational computing concepts.
 
-## Experience
-
-### Independent Investor/Analyst
-
-- Managed a private portfolio of stocks, achieving consistent results over a long timeframe for financial security.
-- Monitored markets and target company performance; created tracking and management tools.
-
-### Restaurant Manager, Bartender
-
-- Managed daily operations, including orders, inventory, and staff development.
-- Collaborated with owners, managers, and staff to ensure smooth operations.
-
-### English Teacher
-
-- Created lesson plans for multiple age groups, from kindergarten to adults.
-- Taught English classes daily with over 100 unique students seen per week.
-
-## Additional Training
-
-- **TESOL & TEFL Certified to teach English Internationally**
-  - Completed in 2005 from Oxford Seminars.
-
 Feel free to explore each project's repository for more details and code snippets. If you have any questions or collaboration opportunities, please reach out to me at dan.morouney@gmail.com.
 
 Thank you for visiting my portfolio!
